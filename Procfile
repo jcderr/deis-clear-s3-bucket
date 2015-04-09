@@ -1,1 +1,1 @@
-rb: s3cmd ls s3://${BUCKET_NAME}
+cmd: python /usr/bin/deleter.py
